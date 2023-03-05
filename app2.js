@@ -10,3 +10,4 @@ function towerBuilder(nFloors) {
 }
 
 console.log(towerBuilder(5));
+console.log(towerBuilder(5));
