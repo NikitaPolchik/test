@@ -1,0 +1,9 @@
+* {
+    background-color: #444;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
